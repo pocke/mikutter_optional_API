@@ -1,5 +1,6 @@
 mikutter_optional_API
 =====================
+license MIT  
 
 mikutterから任意のAPIを叩きます。
 
